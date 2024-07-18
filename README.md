@@ -1,5 +1,7 @@
 My first API test 
 
 Database: MySql 
-Ide: Intelij
-language: Java with framework Spring boot
+
+IDE: Intelij
+
+Language: Java 21 with framework Spring boot
